@@ -1,0 +1,57 @@
+.menus {
+    text-align:center;
+    font-size: 11px;
+}
+
+.menu_p1 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.menu_p2 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.flexitem {
+    width: 200px;
+    margin: 10px;
+    border: 3px solid black;
+    border-radius: 25px;
+    background-color: white;
+    
+}
+
+.button {
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    border: transparent;
+    position: relative;
+    bottom: 0;
+}
+
+
+.numero1 {
+    min-height: 100px;
+}
+
+.numero2 {
+    min-height: 200px;
+}
+
+.numero3 {
+    min-height: 100px;
+}
+
+.numero4 {
+    min-height: 100px;
+}
+
+.numero5 {
+    min-height: 200px;
+}
+
+.numero6 {
+    min-height: 100px;
+}
